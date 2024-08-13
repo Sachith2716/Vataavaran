@@ -55,9 +55,7 @@ const apiKey = "your_api_key_here";
 
 You can obtain a free API key by signing up at [OpenWeatherMap](https://openweathermap.org/api).
 
-## Screenshots
 
-![Weather App Screenshot](./images/weaapp.PNG)
 
 ## Contributing
 
@@ -75,13 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [YourEmail@example.com](mailto:sachithuttarwar23@gmail.com)
+Your Name - [sachith uttarwar](mailto:sachithuttarwar23@gmail.com)
 
-Project Link: [https://github.com/yourusername/weather-app](https://github.com/Sachith2716/Vataavaran)
-
----
-
-### Note:
-- Replace `yourusername` with your actual GitHub username.
-- Customize the contact section with your own details.
-- Add any additional sections that might be relevant, such as known issues, roadmap, or acknowledgments.
+Project Link: [https://github.com/Sachith2716/Vataavaran](https://github.com/Sachith2716/Vataavaran)
