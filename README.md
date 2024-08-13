@@ -28,7 +28,7 @@ To run this project locally, you will need a basic understanding of web developm
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Sachith2716/Vataavaran.git
    ```
 
 2. **Navigate to the project directory**:
@@ -75,9 +75,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [YourEmail@example.com](mailto:YourEmail@example.com)
+Your Name - [YourEmail@example.com](mailto:sachithuttarwar23@gmail.com)
 
-Project Link: [https://github.com/yourusername/weather-app](https://github.com/yourusername/weather-app)
+Project Link: [https://github.com/yourusername/weather-app](https://github.com/Sachith2716/Vataavaran)
 
 ---
 
