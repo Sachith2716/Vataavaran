@@ -33,7 +33,7 @@ To run this project locally, you will need a basic understanding of web developm
 
 2. **Navigate to the project directory**:
    ```bash
-   cd weather-app
+   cd Vataavaran
    ```
 
 3. **Open the `index.html` file in your browser**:
