@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Your Name - [sachith uttarwar](mailto:sachithuttarwar23@gmail.com)
 
-Project Link: [https://github.com/Sachith2716/Vataavaran](https://github.com/Sachith2716/Vataavaran)
+Project Link: [Vataavaran](https://github.com/Sachith2716/Vataavaran)
